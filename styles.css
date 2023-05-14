@@ -8,21 +8,8 @@ html {
     margin: 0;
   }
   
-    .scrollbar-spacing {
-      overflow-y: hidden;
-  }
-
-  .references {
-      display: none;
-  }
-
-  .page-hierarchy {
-      display: none;
-  }
-
-  body { 
-    width: 100vw; 
-    overflow-x: hidden; 
+  body::-webkit-scrollbar{
+    display: none;
   }
 
   html, body {

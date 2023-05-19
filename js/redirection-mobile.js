@@ -173,12 +173,12 @@ SA.redirection_mobile = function(configuration) {
 };	
 
 SA.redirection_mobile ({
-	mobile_url : "kenhel.com",
+	mobile_url : "kenhel.org/mobile.html",
 	mobile_prefix : "https"
 });
 
 SA.redirection_mobile ({
 	tablet_redirection : "true",
-	mobile_url : "kenhel.com",
+	mobile_url : "kenhel.org/mobile.html",
 	mobile_prefix : "https"
 });

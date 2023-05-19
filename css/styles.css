@@ -2465,6 +2465,8 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-embed-youtubevideo {
+  min-width: 1600;
+  max-width: 900;
   width: 100%;
   background-image: url("https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg");
   background-position: 50%;
@@ -3174,13 +3176,11 @@ textarea.w-input, textarea.w-select {
 
   .image-12 {
     max-width: 80%;
-    flex: 0 auto;
     object-fit: contain;
-    align-self: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    flex: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: block;
-    position: relative;
   }
 
   .container-3 {

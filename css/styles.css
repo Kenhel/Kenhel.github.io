@@ -2104,12 +2104,6 @@ textarea.w-input, textarea.w-select {
   display: grid;
 }
 
-.section {
-  height: 250px;
-  font-size: 500px;
-  line-height: 500px;
-  position: absolute;
-  top: -501px;
 .w-embed-youtubevideo {
   width: 100%;
   background-image: url("https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg");

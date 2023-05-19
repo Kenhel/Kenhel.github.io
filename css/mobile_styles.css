@@ -2147,9 +2147,9 @@ textarea.w-input, textarea.w-select {
   }
 
   .image-3 {
-    max-height: 25px;
-    max-width: 1600px;
-    min-height: 25px;
+    max-height: 0;
+    max-width: 0;
+    min-height: 0;
     position: absolute;
     top: -4px;
     bottom: 0;

@@ -2197,12 +2197,13 @@ textarea.w-input, textarea.w-select {
     justify-content: center;
     align-items: flex-start;
     display: flex;
+    overflow: hidden;
   }
 
   .image-6 {
     max-height: 90%;
     max-width: 90%;
-    object-fit: contain;
+    object-fit: scale-down;
     flex: 0 auto;
   }
 
@@ -2247,5 +2248,10 @@ textarea.w-input, textarea.w-select {
     background-size: 1000px 1000px;
     justify-content: center;
     display: flex;
+  }
+
+  .image-10 {
+    position: absolute;
+    top: 19.6719px;
   }
 }

@@ -2190,6 +2190,8 @@ textarea.w-input, textarea.w-select {
 
 .image-6 {
   max-width: 80%;
+  margin-top: 65px;
+  margin-bottom: 65px;
 }
 
 .empty-bg {
@@ -2202,7 +2204,7 @@ textarea.w-input, textarea.w-select {
 
 .image-7 {
   max-width: 300%;
-  min-height: 30px;
+  min-height: 40px;
 }
 
 .image-8 {
@@ -2234,7 +2236,8 @@ textarea.w-input, textarea.w-select {
   width: 80%;
   height: 80%;
   object-fit: scale-down;
-  overflow: visible;
+  overflow: hidden;
+  margin-bottom: 100px;
 }
 
 .image-9 {
